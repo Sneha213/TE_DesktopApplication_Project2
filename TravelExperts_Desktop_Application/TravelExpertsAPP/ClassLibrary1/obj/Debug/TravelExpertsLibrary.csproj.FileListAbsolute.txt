@@ -1,6 +1,0 @@
-C:\Users\744033\Desktop\TravelExpertsApp\TravelExpertsAPP\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\744033\Desktop\TravelExpertsApp\TravelExpertsAPP\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\744033\Desktop\TravelExpertsApp\TravelExpertsAPP\ClassLibrary1\obj\Debug\TravelExpertsLibrary.csproj.CoreCompileInputs.cache
-C:\Users\744033\Desktop\TravelExpertsApp\TravelExpertsAPP\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\744033\Desktop\TravelExpertsApp\TravelExpertsAPP\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
-C:\Users\744033\Desktop\TravelExpertsApp\TravelExpertsAPP\ClassLibrary1\obj\Debug\TravelExpertsLibrary.csprojAssemblyReference.cache
